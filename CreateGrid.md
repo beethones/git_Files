@@ -1,6 +1,6 @@
 {------------------------------------------------------------------------------}
 {    Regra responsável por: Cria grid ocorrênciaXTipo Equipamentos.            }
-{    Programador responsável: Douglas Lima , Data Alteração: 30/12/2013        }
+{    Programador responsável: Beethoven Nunes , Data Alteração: 28/12/2019     }
 {    Engeman®                                                                  }
 {------------------------------------------------------------------------------}
 INTERFACE
