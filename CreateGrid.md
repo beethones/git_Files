@@ -1,7 +1,7 @@
 {------------------------------------------------------------------------------}
 {    Regra responsável por: Cria grid ocorrênciaXTipo Equipamentos.            }
 {    Programador responsável: Beethoven Nunes , Data Alteração: 28/12/2019     }
-{    Engeman®                                                                  }
+{    Engeman®  - teste de alteração via GitHub                                 }
 {------------------------------------------------------------------------------}
 INTERFACE
 
